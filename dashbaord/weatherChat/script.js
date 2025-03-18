@@ -1,4 +1,4 @@
-const apiKey = "c6323d6cc8f04958a2c163249251803"; // Replace with your WeatherAPI key
+const apiKey = ""; // Replace with your WeatherAPI key
 let weatherData = null;
 let userLocation = "";
 
